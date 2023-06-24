@@ -1,0 +1,105 @@
+a{
+    text-decoration: none;
+}
+
+body{
+    background-color:#f095d2;
+    color:rgb(13, 14, 12);
+    font-family: cursive;
+}
+
+nav{
+    background-color:rgb(82, 224, 131) ;
+}
+
+aside{
+    background-color:rgb(246, 165, 50) ;
+}
+
+nav,aside{
+    color:rgb(4, 79, 94);
+    text-align: center;
+}
+
+a{
+    text-decoration: none;
+    color: #181d4a;
+  }
+  
+  a:visited{
+    color: red;
+  }
+  
+  a:hover{
+    color: #329127;
+  }
+
+section{
+    border: 2px solid rgb(156, 18, 41);
+    box-shadow: 2px 3px yellowgreen;
+}
+
+h1{
+    font-size:3em ;
+    text-shadow: 2px 2px rgb(50, 50, 215);
+    text-align: center;
+}
+
+p{
+    font-size: 16px;
+    text-align: center;
+}
+
+span{
+    font-weight:bold;
+}
+
+main{
+    background-color: aqua;
+    width:90%;
+    margin:auto
+}
+
+footer{
+    text-align: center;
+}
+
+li{
+    list-style: none;
+}
+
+h2{
+    text-align: center;
+}
+
+nav h3{
+    color:black
+}
+
+aside h3{
+    color:rgb(27, 121, 90)
+}
+
+#one{
+    color:#f095d2;
+    text-shadow: 1px 1px purple;
+}
+
+#two{
+    color:#8d0760;
+    text-shadow: 1px 1px rgb(197, 189, 42);
+}
+
+#three{
+    color:#c25b2c;
+    text-shadow: 1px 1px rgb(106, 208, 29);
+}
+
+#imgofme{
+    width:20vw;
+    height:25vh;
+}
+
+header{
+    background-image:url('./skybackground.png') ;
+}
